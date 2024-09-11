@@ -7,7 +7,7 @@
         public string Surname { get; set; }
         public DateTime Birthdate { get; set; }
         public int height { get; set; }
-
+        public string description { get; set; }
 
     }
 }
